@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+#navbar, #right_footer {
+	display: inline-block;
+	float: right;
+}
+#navbar li {
+	display: inline;
+}
+#main_body {
+	width: 960px;
+	margin: 0 auto;
+}
+#logo {
+	width: 457px;
+	margin: 0 auto;
+}
+#search {
+	width: 600px;
+	margin: 0 auto;
+}
+#left_footer {
+	display: inline-block;
+}
+#left_footer li, #right_footer li {
+	display: inline;
+}
